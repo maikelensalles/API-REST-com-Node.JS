@@ -4,12 +4,6 @@ const server = express();
 
 server.use(express.json());
 
-// Query params = ?teste=1
-// Route params = /users/1
-// Request body = { "name": "Maikelen", "email": "maiki09sallles@gmail;com" }
-
-// CRUD - Create, Read, Update, Delete
-
 const users = ['Diego', 'Cláudio', 'Maike'];
 
 server.use((req, res, next) => {
