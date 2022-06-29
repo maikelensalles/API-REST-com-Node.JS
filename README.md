@@ -1,21 +1,21 @@
 # Ambiente e conceitos
 
-• Conceitos do Node.js
+- Conceitos do Node.js
 |
-• Conceitos de API REST
+- Conceitos de API REST
 |
-• Criando aplicação 
+- Criando aplicação 
 |
-• Query & Route params
+- Query & Route params
 |
-• Utilizando Insomnia
+- Utilizando Insomnia
 |
-• Utilizando Nodemon
+- Utilizando Nodemon
 |
-• CRUD
+- CRUD
 |
-• Middlewares
+- Middlewares
 |
-• Debugando aplicação
+- Debugando aplicação
 
-</ https://maikelensalles.site/ >
+**[Por Maikelen Salles - Meus links aqui](https://maikelensalles.site/)**
